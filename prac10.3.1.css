@@ -1,0 +1,13 @@
+social-media-app/
+├── backend/
+│   ├── server.js
+│   ├── models.js
+│   ├── routes.js
+│   └── package.json
+├── frontend/
+│   ├── src/App.js
+│   ├── src/api.js
+│   ├── src/App.css
+│   └── package.json
+└── docker-compose.yml  (optional for EC2 setup)
+--- a/file:///c%3A/Users/THE%20TRUSTLESS/Desktop/CU/prac10.3.1.css
